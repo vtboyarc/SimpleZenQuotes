@@ -1,0 +1,82 @@
+
+[
+   {
+      "Category":"Mindfulness",
+      "Quotes":[
+         {
+            "id":0,
+            "quote":"There is nowhere to arrive except the present moment. - Thic Nhat Hanh"
+         },
+         {
+            "id":1,
+            "quote":"Be here now. Be someplace else later. Is that so complicated? – David M. Bader"
+         },
+         {
+            "id":2,
+            "quote":"Mind is there, in front of you. Don’t log in. – Mooji"
+         },
+         {
+            "id":3,
+            "quote":"It is impossible for a man to learn what he thinks he already knows. – Epictetus"
+         },
+         {
+            "id":4,
+            "quote":"Mindfulness isn’t difficult, we just need to remember to do it. – Sharon Salzberg"
+         }
+      ]
+   },
+   {
+      "Category":"Spiritual",
+      "Quotes":[
+         {
+            "id":0,
+            "quote":"Prayer is when you talk to God; meditation is when you listen to God. – Diana Robinson"
+         },
+         {
+            "id":1,
+            "quote":"Peace comes from within. Do not seek it without. – Buddha"
+         },
+         {
+            "id":2,
+            "quote":"Prayer is the raising of one’s mind and heart to God or the requesting of good things from God. - Saint John Damascene"
+         },
+         {
+            "id":3,
+            "quote":"How to pray? This is a simple matter. I would say: Pray any way you like, so long as you do pray. - Pope John Paul II"
+         },
+         {
+            "id":4,
+            "quote":"If you want to find God, hang out in the space between your thoughts. – Alan Cohen"
+         }
+      ]
+   },
+   {
+      "Category":"Motivational",
+      "Quotes":[
+         {
+            "id":0,
+            "quote":"There are two mistakes one can make along the road to truth: not going all the way, and not starting. – Buddha"
+         },
+         {
+            "id":1,
+            "quote":"Your worst enemy cannot harm you as much as your own thoughts, unguarded. - Buddha"
+         },
+         {
+            "id":2,
+            "quote":"The soul always knows what to do to heal itself. The challenge is to silence the mind. – Caroline Myss"
+         },
+         {
+            "id":3,
+            "quote":"Leave nothing for tomorrow which can be done today. - Abraham Lincoln"
+         },
+         {
+            "id":4,
+            "quote":"Do not let the behavior of others destroy your inner peace. – Dalai Lama"
+         },
+         {
+            "id":5,
+            "quote":"Mental problems feed on the attention that you give them. The more you worry about them, the stronger they become. If you ignore them, they lose their power and finally vanish. – Annamalai Swami"
+         }
+      ]
+   }
+]
