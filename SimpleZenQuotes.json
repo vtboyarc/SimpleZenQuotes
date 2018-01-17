@@ -1,4 +1,3 @@
-
 [
    {
       "Category":"Mindfulness",
@@ -22,7 +21,12 @@
          {
             "id":4,
             "quote":"Mindfulness isn’t difficult, we just need to remember to do it. – Sharon Salzberg"
+         },
+         {
+            "id":5,
+            "quote":"One conscious breathe in and out is a meditation. – Eckhart Tolle"
          }
+
       ]
    },
    {
@@ -47,7 +51,12 @@
          {
             "id":4,
             "quote":"If you want to find God, hang out in the space between your thoughts. – Alan Cohen"
+         },
+         {
+            "id":5,
+            "quote": "By humble and faithful prayer, the soul acquires, with time and perseverance, every virtue. Saint - Catherine of Siena"
          }
+
       ]
    },
    {
