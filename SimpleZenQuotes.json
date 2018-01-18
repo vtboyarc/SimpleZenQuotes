@@ -40,11 +40,31 @@
          },
          {
             "id":9,
-            "quote":"The thing about meditation is…you become more and more you. ~David Lynch"
+            "quote":"The thing about meditation is…you become more and more you. - David Lynch"
          },
          {
             "id":10,
             "quote":"If you cultivate the attitude of indifference towards the mind, gradually you will cease to identify with it. – Annamalai Swami"
+         },
+         {
+            "id":11,
+            "quote":"You want to be free as the ego, but you need to be free from the ego. To be free from it is to understand its unreality. – Mooji"
+         },
+         {
+            "id":12,
+            "quote":"If one thinks of oneself as free, one is free, and if one thinks of oneself as bound, one is bound. Here this saying is true, “As one thinks, so one becomes”. – Ashtavakra Gita"
+         },
+         {
+            "id":13,
+            "quote":"Meditation provides a way of learning how to let go. As we sit, the self we’ve been trying to construct and make into a nice, neat package continues to unravel. – John Welwood"
+         },
+         {
+            "id":14,
+            "quote":"The gift of learning to meditate is the greatest gift you can give yourself in this lifetime. – Sogyal Rinpoche"
+         },
+         {
+            "id":15,
+            "quote":"When you reach a calm and quiet meditative state, that is when you can hear the sound of silence. – Stephen Richards"
          }
       ]
    },
@@ -98,6 +118,26 @@
          {
             "id":10,
             "quote":"Faith is the art of holding on to things your reason has once accepted, in spite of you changing moods. - C.S. Lewis"
+         },
+         {
+            "id":11,
+            "quote":"Constant inner peace and serenity can be yours.  - Remez Sasson"
+         },
+         {
+            "id":12,
+            "quote":"The spirit of meditation is the combating against the weight of one’s feelings. – Hakuin Ekaku"
+         },
+         {
+            "id":13,
+            "quote":"Meditation is the secret of all growth in spiritual life and knowledge. – James Allen"
+         },
+         {
+            "id":14,
+            "quote":"Peace in ourselves, peace in the world. - Thich Nhat Hanh"
+         },
+         {
+            "id":15,
+            "quote":"Where there is peace and meditation, there is neither anxiety nor doubt. – St Francis De Sales"
          }
       ]
    },
@@ -151,6 +191,22 @@
          {
             "id":11,
             "quote":"Waste no more time arguing about what a good man should be. Be one. ― Marcus Aurelius"
+         },
+         {
+            "id":12,
+            "quote":"Sitting like a mountain let your mind rise, fly and soar. – Sogyal Rinpoche"
+         },
+         {
+            "id":13,
+            "quote":"To maintain a powerful life force, forget yourself, forget about living and dying, and bring your full attention into this moment. – H.E. Davey"
+         },
+         {
+            "id":14,
+            "quote":"The affairs of the world will go on forever. Do not delay the practice of meditation. – Jetsun Milarepa"
+         },
+         {
+            "id":15,
+            "quote":"Listen to the compass of your heart. All you need lies within you. – Mary Anne Radmacher"
          }
       ]
    }
