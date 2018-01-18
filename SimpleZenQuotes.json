@@ -25,8 +25,27 @@
          {
             "id":5,
             "quote":"One conscious breathe in and out is a meditation. – Eckhart Tolle"
+         },
+         {
+            "id":6,
+            "quote":"If we were meant to talk more than listen, we would have two mouths and one ear. - Mark Twain"
+         },
+         {
+            "id":7,
+            "quote":"Silence is a fence around wisdom. – German Proverb"
+         },
+         {
+            "id":8,
+            "quote":"Meditation is the signpost directing the steps to the main highway of realization. – Guy Bogart"
+         },
+         {
+            "id":9,
+            "quote":"The thing about meditation is…you become more and more you. ~David Lynch"
+         },
+         {
+            "id":10,
+            "quote":"If you cultivate the attitude of indifference towards the mind, gradually you will cease to identify with it. – Annamalai Swami"
          }
-
       ]
    },
    {
@@ -54,11 +73,31 @@
          },
          {
             "id":5,
-            "quote": "By humble and faithful prayer, the soul acquires, with time and perseverance, every virtue. Saint - Catherine of Siena"
+            "quote":"By humble and faithful prayer, the soul acquires, with time and perseverance, every virtue. Saint - Catherine of Siena"
          },
          {
             "id":6,
-            "quote": "It is morally impossible for him who neglects meditation to live without sin. - Saint Alphonsus"
+            "quote":"It is morally impossible for him who neglects meditation to live without sin. - Saint Alphonsus"
+         },
+         {
+            "id":6,
+            "quote":"The soul becomes dyed with the colour of its thoughts. ― Marcus Aurelius"
+         },
+         {
+            "id":7,
+            "quote":"Quiet the mind, and the soul will speak. – Ma Jaya Sati Bhagavati"
+         },
+         {
+            "id":8,
+            "quote":"It is not death that a man should fear, but he should fear never beginning to live. ― Marcus Aurelius"
+         },
+         {
+            "id":9,
+            "quote":"If you can't feed a hundred people, then feed just one. - Mother Teresa"
+         },
+         {
+            "id":10,
+            "quote":"Faith is the art of holding on to things your reason has once accepted, in spite of you changing moods. - C.S. Lewis"
          }
       ]
    },
@@ -88,6 +127,30 @@
          {
             "id":5,
             "quote":"Mental problems feed on the attention that you give them. The more you worry about them, the stronger they become. If you ignore them, they lose their power and finally vanish. – Annamalai Swami"
+         },
+         {
+            "id":6,
+            "quote":"The mind in itself can make a heaven of hell or a hell of heaven. – John Milton"
+         },
+         {
+            "id":7,
+            "quote":"All experiences come and go. What witnesses experiencing itself? – Mooji"
+         },
+         {
+            "id":8,
+            "quote":"If it is not right do not do it; if it is not true do not say it. ― Marcus Aurelius"
+         },
+         {
+            "id":9,
+            "quote":"Dwell on the beauty of life. Watch the stars, and see yourself running with them. ― Marcus Aurelius"
+         },
+         {
+            "id":10,
+            "quote":"Your goal is not to battle with the mind, but to witness the mind. – Swami Muktananda"
+         },
+         {
+            "id":11,
+            "quote":"Waste no more time arguing about what a good man should be. Be one. ― Marcus Aurelius"
          }
       ]
    }
